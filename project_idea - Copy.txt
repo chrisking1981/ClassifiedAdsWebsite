@@ -1,0 +1,61 @@
+Kleurenschema:
+Voor een classifieds ads website voor contactadvertenties zou je kunnen kiezen voor een modern en rustig kleurenschema dat vertrouwen uitstraalt. Hier is een suggestie:
+
+Primaire kleur: #007BFF (Bootstrap's standaard blauw)
+Secundaire kleur: #6C757D (Bootstrap's standaard grijs)
+Achtergrond: #F8F9FA (Bootstrap's standaard lichte achtergrond)
+Accentkleur: #28A745 (Bootstrap's standaard groen, voor call-to-action knoppen of belangrijke informatie)
+
+Voorpagina Layout:
+Gebruik de Bootstrap grid systeem om de rubrieken en advertenties netjes te organiseren.
+Voor elke rubriek kun je een rij maken met de laatste 5 advertenties. Gebruik kaarten (card component van Bootstrap) om elke advertentie weer te geven.
+Overweeg een navigatiebalk bovenaan met links naar verschillende rubrieken en andere belangrijke pagina's.
+
+Responsive Design:
+Bootstrap is van nature responsief, dus zorg ervoor dat je de juiste gridklassen gebruikt om je layout op verschillende schermgroottes goed te laten werken.
+
+Aanvullende Styling:
+Overweeg subtiele schaduwen of hover-effecten toe te voegen aan kaarten of knoppen voor een moderner gevoel.
+Gebruik consistentie in typografie en ruimte om een professionele uitstraling te geven.
+
+
+
+
+Voorpagina componenten voor template C:\laragon\www\ClassifiedAdsWebsite\resources\views\welcome.blade.php :
+Header:
+- Logo
+- Navigatiemenu met links naar belangrijke pagina's
+- Zoekbalk
+
+Introductiesectie:
+- Beschrijving van de website
+- Call-to-action knop voor nieuwe advertenties of registratie
+
+Laatste Advertenties:
+- De laatste 5 contactadvertenties per rubriek
+- "Bekijk meer" link voor elke rubriek
+
+Uitgelichte Advertenties:
+- Sectie voor uitgelichte of gepromote advertenties
+
+Testimonials:
+- Positieve ervaringen of succesverhalen van gebruikers
+
+Nieuws & Updates:
+- Laatste berichten of aankondigingen met betrekking tot de website
+
+Footer:
+- Links naar belangrijke pagina's (algemene voorwaarden, privacybeleid, FAQ, enz.)
+- Contactinformatie (e-mailadres, telefoonnummer, contactformulier)
+- Sociale media-iconen
+
+Aanmelden/Registreren:
+- Duidelijke call-to-action voor gebruikers om een account aan te maken of in te loggen
+
+Categorieën of Rubrieken:
+- Overzicht van beschikbare rubrieken of categorieën van advertenties
+
+
+maak nu de welcome.blade.php template (in blade templating format) adhv van bovenstaande instructies, 
+graag volledige blade templating format code in code window weergeven.
+------------------------------------------------------
